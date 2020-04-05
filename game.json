@@ -23,8 +23,8 @@
     "winExecutableIconFile": "",
     "name": "Project",
     "author": "",
-    "windowWidth": 800,
-    "windowHeight": 600,
+    "windowWidth": 900,
+    "windowHeight": 700,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -253,6 +253,2013 @@
         "name": "bird-fly-08.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_041.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_041.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_040.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_040.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_039.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_038.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_037.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_036.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_035.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_033.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_033.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_031.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_029.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_028.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_027.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_025.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_024.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_023.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_022.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_021.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_020.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_018.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_016.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_013.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_012.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-40.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-39.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-38.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-37.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-36.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-35.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-33.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-31.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-30.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-28.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-27.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run-1/run_042-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run-1/run_042-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-40.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-39.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-38.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-37.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-33.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-31.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-30.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-28.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-27.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-26.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-25.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-22.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-21.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run/r_042-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run/r_042-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-48.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-47.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-46.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-45.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-44.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-43.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-42.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-40.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-39.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-38.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-37.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-36.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-34.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-33.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-31.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-30.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-28.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-27.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-26.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Big_eyes_boy/PNG Images Sequences/run/running_049-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big_eyes_boy/PNG Images Sequences/run/running_049-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-41.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-40.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-39.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-38.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-37.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-34.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-33.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-31.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-30.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-28.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-27.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-25.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "background.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "poop1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "poop1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "poop4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "poop4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "poop3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "poop3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "poop2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "poop2.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -296,6 +2303,12 @@
             },
             {
               "name": "Person2"
+            },
+            {
+              "name": "Person3"
+            },
+            {
+              "name": "Person4"
             }
           ]
         }
@@ -320,7 +2333,7 @@
           "name": "Ground",
           "width": 1056,
           "x": -160,
-          "y": 480,
+          "y": 672,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -334,8 +2347,8 @@
           "locked": false,
           "name": "Bird",
           "width": 0,
-          "x": 96,
-          "y": 128,
+          "x": 64,
+          "y": 192,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -350,7 +2363,7 @@
           "name": "ScoreLabel",
           "width": 0,
           "x": 32,
-          "y": 512,
+          "y": 32,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -365,8 +2378,23 @@
           "name": "ScoreValue",
           "width": 0,
           "x": 160,
-          "y": 512,
+          "y": 32,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "Background",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -642,17 +2670,823 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "poop-1.png",
+                      "image": "poop4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 8
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "poop3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "poop2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "poop1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Person3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "speed",
+              "value": "300"
+            },
+            {
+              "name": "score",
+              "value": "10"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 150
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.02,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run/r_042-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -680,11 +3514,11 @@
             },
             {
               "name": "speed",
-              "value": "300"
+              "value": "200"
             },
             {
               "name": "score",
-              "value": "10"
+              "value": "5"
             }
           ],
           "behaviors": [
@@ -696,20 +3530,717 @@
           ],
           "animations": [
             {
-              "name": "Person1",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.03,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Person1-1-0.png",
+                      "image": "run-1/run_042-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 32,
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "run-1/run_042-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
                         "y": 128
                       },
                       "centerPoint": {
@@ -765,6 +4296,761 @@
           }
         },
         {
+          "name": "Person4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "speed",
+              "value": "700"
+            },
+            {
+              "name": "score",
+              "value": "50"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 100
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.008,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "gogle_male_game_character_sprites/PNG Images Sequences/run/run_042-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 42,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Person2",
           "tags": "",
           "type": "Sprite",
@@ -792,21 +5078,837 @@
           ],
           "animations": [
             {
-              "name": "Person2",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.01,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Person2-1.png",
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-48.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 34.0078,
-                        "y": 120.27
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-47.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-46.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-45.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-44.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-43.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-42.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Big_eyes_boy/PNG Images Sequences/run/running_049-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48,
+                        "y": 128
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -821,6 +5923,16 @@
               ]
             }
           ]
+        },
+        {
+          "height": 700,
+          "name": "Background",
+          "tags": "",
+          "texture": "background.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 900,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -849,6 +5961,17 @@
               "parameters": [
                 "",
                 "\"timer_poop\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer_poop_done\""
               ],
               "subInstructions": []
             }
@@ -880,6 +6003,18 @@
                 "Bird",
                 ">",
                 "Bird.Width() / 2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.4",
+                "\"timer_poop_done\""
               ],
               "subInstructions": []
             }
@@ -939,6 +6074,18 @@
                 "SceneWindowWidth() - Bird.Width()/2"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.4",
+                "\"timer_poop_done\""
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -963,6 +6110,16 @@
                 "0",
                 "500",
                 "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Ground"
               ],
               "subInstructions": []
             }
@@ -1127,7 +6284,7 @@
               },
               "parameters": [
                 "",
-                "0.5",
+                "1",
                 "\"timer_spawn\""
               ],
               "subInstructions": []
@@ -1160,7 +6317,7 @@
                   "parameters": [
                     "",
                     "Target",
-                    "\"Person\" + ToString(RandomWithStep(1, 3, 1))",
+                    "\"Person\" + ToString(RandomWithStep(1, 4, 1))",
                     "-64",
                     "Ground.Y()",
                     ""
@@ -1393,6 +6550,12 @@
         }
       ],
       "layers": [
+        {
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "name": "",
           "visibility": true,
