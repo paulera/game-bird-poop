@@ -6,3 +6,5 @@ mechanics of flying and people moving in one direction. Art for bird, poop, back
 
 15:00 Sprint 2
 15:40 First playable version without art (Scores, poop on people, fly left and right, random people spawning - only 1 type)
+
+16:18 2 people with different scores and speed. random spawned
