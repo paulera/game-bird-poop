@@ -16,13 +16,13 @@
     "packageName": "com.example.gamename",
     "projectFile": "/Users/paulo/workspace/gdevelop/game-bird-poop/game.json",
     "scaleMode": "linear",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "winExecutableFilename": "",
     "winExecutableIconFile": "",
-    "name": "Project",
-    "author": "",
+    "name": "The Pooping Bird",
+    "author": "Paulo Amaral and Monica Guimaraes",
     "windowWidth": 900,
     "windowHeight": 700,
     "latestCompilationDirectory": "",
@@ -101,15 +101,6 @@
   },
   "resources": {
     "resources": [
-      {
-        "alwaysLoaded": false,
-        "file": "brown-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "brown-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
       {
         "alwaysLoaded": false,
         "file": "bird-1.png",
@@ -2260,6 +2251,45 @@
         "name": "poop2.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Happy walk.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Happy walk.mp3",
+        "userAdded": false
+      },
+      {
+        "file": "241000__dsisstudios__short-fart-01.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "241000__dsisstudios__short-fart-01.wav",
+        "userAdded": true
+      },
+      {
+        "file": "61046__timtube__fart-2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "61046__timtube__fart-2.wav",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "brown-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "brown-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "intro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "intro.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4311,7 +4341,7 @@
             },
             {
               "name": "score",
-              "value": "50"
+              "value": "40"
             }
           ],
           "behaviors": [
@@ -5066,14 +5096,14 @@
             },
             {
               "name": "score",
-              "value": "30"
+              "value": "20"
             }
           ],
           "behaviors": [
             {
-              "extraBorder": 100,
               "name": "DestroyOutside",
-              "type": "DestroyOutsideBehavior::DestroyOutside"
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 100
             }
           ],
           "animations": [
@@ -5974,6 +6004,20 @@
                 "\"timer_poop_done\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Happy walk.mp3",
+                "yes",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -6235,6 +6279,20 @@
                 "\"timer_poop_done\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "241000__dsisstudios__short-fart-01.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -6393,9 +6451,31 @@
                     ""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "61046__timtube__fart-2.wav",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
                 {
                   "type": {
                     "inverted": false,
@@ -6580,6 +6660,119 @@
           "type": "PlatformBehavior::PlatformBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Intro",
+      "name": "Intro",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.5246
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Intro",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 700,
+          "name": "Intro",
+          "tags": "",
+          "texture": "intro.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 900,
+          "variables": [],
+          "behaviors": []
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Game\"",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
