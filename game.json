@@ -145,6 +145,15 @@
         "name": "Person1-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Person1-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Person1-1-0.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -179,11 +188,24 @@
         "windowMask": false,
         "zoomFactor": 0.7642
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Target",
+          "objects": [
+            {
+              "name": "Person1"
+            }
+          ]
+        }
+      ],
       "variables": [
         {
           "name": "can_poop",
           "value": "1"
+        },
+        {
+          "name": "score",
+          "value": "0"
         }
       ],
       "instances": [
@@ -213,6 +235,36 @@
           "x": 96,
           "y": 96,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ScoreLabel",
+          "width": 0,
+          "x": 32,
+          "y": 512,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ScoreValue",
+          "width": 0,
+          "x": 160,
+          "y": 512,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -320,7 +372,16 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "speed",
+              "value": "300"
+            }
+          ],
           "behaviors": [
             {
               "extraBorder": 150,
@@ -339,7 +400,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Person1-1.png",
+                      "image": "Person1-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -359,9 +420,78 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "ScoreValue",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "ScoreLabel",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Score: ",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer_poop\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
         {
           "disabled": false,
           "folded": false,
@@ -375,6 +505,18 @@
               "parameters": [
                 "",
                 "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PosX"
+              },
+              "parameters": [
+                "Bird",
+                ">",
+                "Bird.Width() / 2"
               ],
               "subInstructions": []
             }
@@ -399,7 +541,7 @@
               "parameters": [
                 "Bird",
                 "180",
-                "300",
+                "500",
                 "0"
               ],
               "subInstructions": []
@@ -420,6 +562,18 @@
               "parameters": [
                 "",
                 "Right"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PosX"
+              },
+              "parameters": [
+                "Bird",
+                "<",
+                "SceneWindowWidth() - Bird.Width()/2"
               ],
               "subInstructions": []
             }
@@ -444,7 +598,7 @@
               "parameters": [
                 "Bird",
                 "0",
-                "300",
+                "500",
                 "0"
               ],
               "subInstructions": []
@@ -551,20 +705,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "KeyPressed"
+                "value": "Timer"
               },
               "parameters": [
                 "",
-                "q"
+                "2",
+                "\"timer_spawn\""
               ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
               "subInstructions": []
             }
           ],
@@ -572,14 +719,50 @@
             {
               "type": {
                 "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer_spawn\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "Create"
               },
               "parameters": [
                 "",
-                "Person1",
-                "-Person.Width()",
+                "Target",
+                "-64",
                 "Ground.Y()",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Target",
+                "direction",
+                "=",
+                "RandomWithStep(-1, 1, 2)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "Target",
+                "=",
+                "SceneWindowWidth()/2 + Target.Variable(direction) * (SceneWindowWidth()/2 + 32 - 50)"
               ],
               "subInstructions": []
             },
@@ -589,9 +772,9 @@
                 "value": "AddForceAL"
               },
               "parameters": [
-                "Person1",
+                "Target",
                 "0",
-                "400",
+                "Target.Variable(direction) * Target.Variable(speed) * -1",
                 "1"
               ],
               "subInstructions": []
@@ -602,19 +785,101 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Target",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Poop",
+                    "Target",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Poop",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Target",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "score",
+                    "+",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "GUI Updates",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "VarObjet"
               },
               "parameters": [
-                "Poop",
-                "Person1",
-                "",
-                "",
-                ""
+                "Target",
+                "direction",
+                "=",
+                "1"
               ],
               "subInstructions": []
             }
@@ -623,11 +888,32 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Delete"
+                "value": "FlipX"
               },
               "parameters": [
-                "Poop",
-                ""
+                "Target",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "ScoreValue",
+                "=",
+                "VariableString(score)"
               ],
               "subInstructions": []
             }
